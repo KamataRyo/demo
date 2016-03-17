@@ -55,6 +55,7 @@ h1{
 	  font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
 		color: white;
 	  margin: 0 auto;
+		line-height: 30px;
 		text-align: center;
 		padding: 10px 0px;
 		background-color: #01DF74;
