@@ -15,7 +15,7 @@ body {
 
 .back{
 	 float: left;
-	 background: #01DF74;
+	 background: #0B2161;
 	 border: 1px solid #DDD;
 	 color: white;
 	 width: 150px;
@@ -48,7 +48,7 @@ h1{
   width: 878px;
 	height: auto;
   border-style: solid;
-	border-color: #01DF74;
+	border-color: #0B2161;
   border-width: 6px;
   padding: 10px 10px;
 }
@@ -64,7 +64,7 @@ h2{
   margin: 0 auto;
 	text-align: center;
 	padding: 10px 0px;
-	background-color: #01DF74;
+	background-color: #0B2161;
 }
 .under_h2{
 	float:left;
