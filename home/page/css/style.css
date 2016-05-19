@@ -115,25 +115,23 @@ h3{
 	.yagailmokuji{
 	  float:left;
 	  width:439px;
-	  height:400px;
+	  height:300px;
 	  background-color: none;
 	}
 
-	.yagailmokuji p{
+	.yagailmokuji p {
 		float:left;
-	  font-size:25px;
-	  font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
-		line-height: 150%
+	  line-height: 150%
 
 	}
 
 	.yagairmokuji{
 	  float:left;
 	  width:439px;
-	  height:400px;
+	  height:300px;
 	  background-color: none;
 	}
- .yagairmokuji img{
+ .yagairmokuji iframe{
 	  float:right;
 	  width:360px;
 	  height:240px;
@@ -141,6 +139,13 @@ h3{
 		margin: 30px 30px;
 	}
 
+.yagairmokuji img{
+ 	  float:right;
+ 	  width:360px;
+ 	  height:240px;
+ 	  background-color: none;
+ 		margin: 30px 30px;
+ 	}
 .image{
   width:290px;
   height:220px;
@@ -191,3 +196,9 @@ hr{
 	width:900px;
   height:420px;
 }
+
+div .text p { float:left;
+  font-size:12px;
+	font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
+	margin: 0px auto;
+	}
